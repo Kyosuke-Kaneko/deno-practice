@@ -1,4 +1,4 @@
-# 2.Gettind started
+# chapter2:Gettind started
 ## 2.3 First steps
 
 You will see this program returns an error regarding network access so what did we do wrong? You might remember from the introduction that Deno is a runtime that is secure by default. This means you need to explicitly give programs permission to do certain 'privileged' actions, such as access the network.
